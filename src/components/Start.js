@@ -1,5 +1,6 @@
 import React from "react";
 
+// Start page component
 const Start = (props) => {
     return (
         <div className="start-page">

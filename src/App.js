@@ -4,8 +4,10 @@ import Quiz from './components/Quiz';
 import Start from './components/Start';
 
 function App() {
+  //startPage : state to show Start page or Quiz page
   const [startPage, setStartPage] = useState(true);
 
+  // toggles startPage state
   const showQuizPage = () => {
     setStartPage((prevValue) => {
       return !prevValue;
