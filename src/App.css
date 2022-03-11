@@ -76,7 +76,7 @@ p.game-desc {
 }
 
 .correct {
-  background-color: #94D7A2;
+  background-color: #3de912;
 }
 
 .incorrect {
@@ -84,7 +84,7 @@ p.game-desc {
 }
 
 .unselected-correct {
-  background-color: #e6e912;
+  background-color: #94D7A2;
 }
 
 .disabled span {
