@@ -22,4 +22,5 @@ Quiz questions are fetched from `opentdb`
 ## Ideas
 1. Provide user with an option to choose number of questions,category, difficulty. Right now, we fetch 5 questions of Any type with Medium difficulty.
 2. Add timer
-3. Confetti if user scores 100% (maybe)
+3. parse unicode and show proper characers
+4. Confetti if user scores 100% (maybe)
